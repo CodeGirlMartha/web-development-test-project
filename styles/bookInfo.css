@@ -1,0 +1,26 @@
+
+body{
+    background-color: aqua;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 6px, 6px, white;
+    -webkit-text-fill-color:blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+p{
+    text-align:center;
+    font-size: 25px;
+
+}
